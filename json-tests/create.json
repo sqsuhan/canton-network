@@ -1,0 +1,8 @@
+{
+  "templateId": "5c4aeeb4eecadc4e9cf1a4e0f8f915889ab382f0121155ccf86505da6d50a28b:Main:Asset",
+  "payload": {
+    "issuer": "Alice::12206980db526d9bedc165bd6d3e3120954ce792e9b2f49c60c4386ce33139e8f7f9",
+    "owner": "Alice::12206980db526d9bedc165bd6d3e3120954ce792e9b2f49c60c4386ce33139e8f7f9",
+    "name": "cantonasset"
+  }
+}
